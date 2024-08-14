@@ -1,6 +1,5 @@
-These ipynb contain different deep learning models as I have done a study to evaluate their performance in automatic yoga pose classification.
-
-Provided below are the links of the 2 datasets I have worked upon
+Abstract:
+Yoga is a discipline originating from ancient India, concentrating on overall well-being, incorporating physical, mental & spiritual activities. When performing yoga postures without expert guidance, one must concentrate on form and technique to prevent injuries, impelling a significant empirical study in this regard. The main objective of our study is to assess still image-based classification of yoga postures using five of the most popular deep learning models, namely, Vision Transformer, DenseNet201, ResNet50, InceptionV3 and, VGG19. These models are tested on two recently developed standard yoga pose classification datasets. Niharika Pandit created the first standard dataset, while the second one was recently developed by A. Mohan Kumar. The comparison results conclude that the InceptionV3 model showed the best classification accuracy of 98.29% on the Niharika dataset, and the DenseNet201 model showed the best at 87.54% on the other one. This in-depth examination highlights the relative strengths and weaknesses present in each model, helping choose the best one for classifying yoga poses. This groundbreaking study validates the proposed method and marks a new era where high-quality yoga instructions are available to everyone regardless of where they are or how much money they have
 
 https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
 https://www.kaggle.com/datasets/amohankumar/yoga-pose-classification-dataset
